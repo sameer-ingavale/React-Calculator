@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66e7af82.chunk.css",
+    "main.js": "/static/js/main.bd5325f4.chunk.js",
+    "main.js.map": "/static/js/main.bd5325f4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.ab94d0df.js",
+    "runtime~main.js.map": "/static/js/runtime~main.ab94d0df.js.map",
+    "static/js/2.635d0c3f.chunk.js": "/static/js/2.635d0c3f.chunk.js",
+    "static/js/2.635d0c3f.chunk.js.map": "/static/js/2.635d0c3f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.82a9a47b741f9c7e1a028d2feab962e2.js": "/precache-manifest.82a9a47b741f9c7e1a028d2feab962e2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.66e7af82.chunk.css.map": "/static/css/main.66e7af82.chunk.css.map",
+    "static/media/App.css": "/static/media/GlacialIndifference-Regular.13dc531a.otf",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  }
+}
